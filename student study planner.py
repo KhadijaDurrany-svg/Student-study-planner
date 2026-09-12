@@ -8,8 +8,6 @@ print("Subject:", subject)
 print("Task:", task)
 print("Study Time:", time, "minutes")
 print("Student Study Planner")
-
-print("\nYour Study Plan")
+
 print("Subject:", subject)
-print("Task:", task)
-print("Study Time:", time, "minutes")
+print("Task:", task)
